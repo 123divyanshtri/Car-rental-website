@@ -4,4 +4,4 @@ Car-rental website is a car rental platform, supplier-oriented, with a backend f
  When new suppliers are created, they receive an email prompting them to create an account in order to access the backend and manage their car fleet and bookings.
 ![image](https://github.com/user-attachments/assets/865b1edf-6ced-4709-8103-3fd63ea45b7c)
 # Table of Content
-Requirements
+* Requirements
